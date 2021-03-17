@@ -1,6 +1,6 @@
 # cr_optimization_bri
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/61699876/111481131-3eccfc00-8765-11eb-8efd-8fe77bf07a5f.png" />
 </p>
 
 ![logo-bri-hackathon](https://user-images.githubusercontent.com/61699876/111481131-3eccfc00-8765-11eb-8efd-8fe77bf07a5f.png)
